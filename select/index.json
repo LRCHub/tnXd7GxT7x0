@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "視界の隅 朽ちる音 (新川崎（仮）)",
+  "base_artist": "トゲナシトゲアリ",
+  "createdAt": "2026-02-27T16:33:42.190127Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "視界の隅 朽ちる音 - 新川崎（仮）",
+      "artist": "トゲナシトゲアリ",
+      "has_synced": true,
+      "path": "select/01_視界の隅_朽ちる音_-_新川崎(仮)_トゲナシトゲアリ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "視界の隅 朽ちる音 (新川崎（仮）)",
+      "artist": "トゲナシトゲアリ",
+      "has_synced": true,
+      "path": "select/02_視界の隅_朽ちる音_(新川崎(仮))_トゲナシトゲアリ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "視界の隅 朽ちる音 (新川崎(仮))",
+      "artist": "トゲナシトゲアリ",
+      "has_synced": false,
+      "path": "select/pl_01_視界の隅_朽ちる音_(新川崎(仮))_トゲナシトゲアリ.txt"
+    }
+  ]
+}
